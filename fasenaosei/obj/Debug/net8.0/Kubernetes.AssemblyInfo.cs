@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kubernetes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f7271ec51b3f5823973349db4128ed5faf73b71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb951bb8ce14ac0d89ecb3eee888e02624783135")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kubernetes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kubernetes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
