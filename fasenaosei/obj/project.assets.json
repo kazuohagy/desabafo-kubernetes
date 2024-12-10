@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kazuo\\Documents\\desabafo-kubernetes\\Kubernetes.csproj",
+      "projectUniqueName": "C:\\Users\\kazuo\\Documents\\desabafo-kubernetes\\fasenaosei\\Kubernetes.csproj",
       "projectName": "Kubernetes",
-      "projectPath": "C:\\Users\\kazuo\\Documents\\desabafo-kubernetes\\Kubernetes.csproj",
+      "projectPath": "C:\\Users\\kazuo\\Documents\\desabafo-kubernetes\\fasenaosei\\Kubernetes.csproj",
       "packagesPath": "C:\\Users\\kazuo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kazuo\\Documents\\desabafo-kubernetes\\obj\\",
+      "outputPath": "C:\\Users\\kazuo\\Documents\\desabafo-kubernetes\\fasenaosei\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kazuo\\AppData\\Roaming\\NuGet\\NuGet.Config",
